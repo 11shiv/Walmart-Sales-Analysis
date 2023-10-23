@@ -5,7 +5,7 @@
 
 The aim of this project is to explore the Walmart Sales data and to understand the top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. 
 
-# Dataset Link :
+## Dataset Link :
 [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
 
 
