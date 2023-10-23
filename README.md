@@ -73,12 +73,12 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 ## Business Questions To Answer
 
-### Generic Question
+### Generic Question :
 
 1. How many unique cities does the data have?
 2. In which city is each branch?
 
-### Product
+### Product :
 
 1. How many unique product lines does the data have?
 2. What is the most common payment method?
@@ -93,14 +93,14 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 9. What is the most common product line by gender?
 12. What is the average rating of each product line?
 
-### Sales
+### Sales :
 
 1. Number of sales made in each time of the day per weekday
 2. Which of the customer types brings the most revenue?
 3. Which city has the largest tax percent/ VAT (**Value Added Tax**)?
 4. Which customer type pays the most in VAT?
 
-### Customer
+### Customer :
 
 1. How many unique customer types does the data have?
 2. How many unique payment methods does the data have?
@@ -112,6 +112,11 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 8. Which time of the day do customers give most ratings per branch?
 9. Which day fo the week has the best avg ratings?
 10. Which day of the week has the best average ratings per branch?
+
+### Project shots :
+![Screenshot 2023-10-24 001230](https://github.com/11shiv/Walmart-Sales-Analysis/assets/103626079/7cce03f7-ec0b-451b-9bc3-08d8bf8c6d4a)
+
+
 
 
 # Thank you !
