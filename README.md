@@ -114,6 +114,11 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 10. Which day of the week has the best average ratings per branch?
 
 ### Project shots :
+Walmart Analysis using Power Bi :
+![walmart](https://github.com/11shiv/Walmart-Sales-Analysis/assets/103626079/6c17e952-e2f3-4f35-8e29-9c4bde9a5b17)
+
+
+Walmart Analysis using MySQL :
 ![Screenshot 2023-10-24 001230](https://github.com/11shiv/Walmart-Sales-Analysis/assets/103626079/7cce03f7-ec0b-451b-9bc3-08d8bf8c6d4a)
 
 
